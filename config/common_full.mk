@@ -25,11 +25,6 @@ PRODUCT_PACKAGES += \
     AudioFX
 endif
 
-# Extra cmdline tools
-PRODUCT_PACKAGES += \
-    unrar \
-    zstd
-
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
